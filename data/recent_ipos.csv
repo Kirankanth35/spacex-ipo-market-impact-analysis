@@ -1,0 +1,6 @@
+company,ticker,ipo_date,sector,shares_offered,ipo_price_usd,ipo_valuation_b,business_theme,innovation_score,global_attention_score,strategic_importance_score
+SpaceX,SPCX,2026-06-12,Space / Satellite Internet / AI Infrastructure,555555555,135.00,1770.0,"Reusable rockets, Starlink, launch systems, government contracts, AI infrastructure narrative",10,10,10
+CoreWeave,CRWV,2025-03-28,AI Cloud Infrastructure,37500000,40.00,23.0,"GPU cloud, AI infrastructure, enterprise AI compute",9,8,8
+Circle,CRCL,2025-06-05,Fintech / Stablecoins,34000000,31.00,6.8,"Stablecoins, crypto payments, fintech infrastructure",8,8,7
+Figma,FIG,2025-07-31,SaaS / Design Software,36937080,33.00,19.0,"Collaborative design software, product design, SaaS",8,8,7
+Chime,CHYM,2025-06-12,Fintech / Digital Banking,32000000,27.00,9.84,Consumer digital banking and financial services,7,7,6

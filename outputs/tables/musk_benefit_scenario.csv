@@ -1,0 +1,6 @@
+assumption,value_b,explanation
+IPO implied valuation,1770.0,Approximate SpaceX value at IPO pricing.
+Scenario implied valuation,2534.7711,IPO valuation scaled by scenario market price divided by IPO price.
+Total valuation increase,764.7711,Paper market value increase from IPO valuation to scenario valuation.
+Musk ownership scenario benefit,290.613,Scenario paper gain assuming 38% ownership. Not cash unless shares are sold.
+Musk stake scenario value,963.213,Scenario value of ownership stake assuming 38% ownership.

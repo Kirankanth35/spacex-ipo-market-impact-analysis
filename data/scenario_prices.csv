@@ -1,0 +1,6 @@
+company,ticker,ipo_price_usd,first_close_usd,scenario_market_price_usd,notes
+SpaceX,SPCX,135.00,160.95,193.33,Update this market price before publishing if you want the latest investor/Musk benefit analysis
+CoreWeave,CRWV,40.00,,117.95,Manual scenario price used for peer comparison
+Circle,CRCL,31.00,,80.23,Manual scenario price used for peer comparison
+Figma,FIG,33.00,,18.88,Manual scenario price used for peer comparison
+Chime,CHYM,27.00,,17.60,Manual scenario price used for peer comparison
